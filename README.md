@@ -38,7 +38,7 @@ https://docs.google.com/document/d/1PLRxWIKppNHIy461ZeHHP1Lz6ZC7rcbSRyD7SJCkyKg/
 
 ---------
 ## Introduction 
-Imagine **Morpheus**, your personal AI companion, designed to be more intimately acquainted with you than anyone else, operating directly from your computer with unparalleled security and dedication. This is no ordinary tool; it's an extension of your intellect, a trusted advisor capable of engaging in deep, meaningful dialogues, understanding your needs, aspirations, and preferences with a precision beyond human capability. Morpheus stands as a beacon of privacy and autonomy, ensuring your interactions are free from external agendas and solely focused on your benefit.
+Introducing **Morpheus**, your personal AI companion, designed to be more intimately acquainted with you than anyone else, operating directly from your computer with unparalleled security and dedication. This is no ordinary tool; it's an extension of your intellect, a trusted advisor capable of engaging in deep, meaningful dialogues, understanding your needs, aspirations, and preferences with a precision beyond human capability. Morpheus stands as a beacon of privacy and autonomy, ensuring your interactions are free from external agendas and solely focused on your benefit.
 
 This groundbreaking innovation marks the dawn of a new era in decentralized, peer-to-peer technology, seamlessly integrating Large Language Models and AI into your digital life with a level of personalization never seen before. Morpheus not only responds to your queries and tasks but also anticipates your needs, all the while championing the principle that your data is yours alone.
 
