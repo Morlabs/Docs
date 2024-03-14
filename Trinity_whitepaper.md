@@ -40,7 +40,7 @@ The true power of Trinity extends far beyond individual AI companions, unveiling
 
 At the heart of Trinity lies a revolutionary governance model, the Trinity DAO– a decentralized autonomous organization - that champions transparency, community participation, and the ethical advancement of AI. Through the power of AGI tokens, stakeholders are empowered to shape the direction, policies, and priorities of the entire network, ensuring that Trinity evolves in alignment with the collective will, aspirations, and ethical standards of its diverse community. 
 
-Trinity DAO is powered by by the AGI token, whose distribution and emission are carefully structured to support the diverse pillars of the Morpheus network. The emissions to each pool are not static; instead, they are dynamically controlled by DAO governance, allowing adjustments in response to the evolving market environment and the network's needs.
+Trinity DAO is powered by by the AGI token, whose distribution and emission are carefully structured to support the diverse pillars of the network. The emissions to each pool are not static; instead, they are dynamically controlled by DAO governance, allowing adjustments in response to the evolving market environment and the network's needs.
 
 The hard cap of 42,000,000 AGI tokens ensures scarcity and incentivizes value preservation within the ecosystem. Initial daily emissions are set at 14,400 AGI, designed to decrease gradually, ensuring a transition towards a self-sustaining economy. This approach ensures long-term sustainability and value for the MOR token. Suggested initial allocation Pools are: 
 
