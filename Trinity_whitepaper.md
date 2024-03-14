@@ -42,7 +42,7 @@ At the heart of Trinity lies a revolutionary governance model, the Trinity DAOâ€
 
 Trinity DAO is powered by by the AGI token, whose distribution and emission are carefully structured to support the diverse pillars of the network. The emissions to each pool are not static; instead, they are dynamically controlled by DAO governance, allowing adjustments in response to the evolving market environment and the network's needs.
 
-The hard cap of 42,000,000 AGI tokens ensures scarcity and incentivizes value preservation within the ecosystem. Initial daily emissions are set at 14,400 AGI, designed to decrease gradually, ensuring a transition towards a self-sustaining economy. This approach ensures long-term sustainability and value for the MOR token. Suggested initial allocation Pools are: 
+The hard cap of 42,000,000 AGI tokens ensures scarcity and incentivizes value preservation within the ecosystem. Initial daily emissions are set at 14,400 AGI, designed to decrease gradually, ensuring a transition towards a self-sustaining economy. This approach ensures long-term sustainability and value for the MOR token. The initial allocation pools, which are are subject to dynamic adjustment by the DAO, are:
 
 - **Code Providers**: Recognizing the vital role of developers in enhancing the Trinity platform, a significant portion of AGI tokens is allocated to reward contributions of code, features, and improvements. This pool incentivizes innovation and continual development within the ecosystem.
 
@@ -51,8 +51,6 @@ The hard cap of 42,000,000 AGI tokens ensures scarcity and incentivizes value pr
 - **Compute Providers**: As the backbone of the AI services Trinity offers, Compute Providers are allocated a portion of AGI tokens for supplying the computational power required to run AI Agents and other network operations. This reward mechanism ensures a robust and scalable infrastructure.
 
 - **Community Engagement**: A dedicated pool exists to reward community members for their engagement, governance participation, and promotional activities that drive awareness and adoption of Trinity. This pool is essential for fostering a vibrant and active community.
-
-The distribution rates to each pool are not fixed; they are subject to adjustment by the DAO, ensuring that the Trinity network remains responsive to the needs of the ecosystem and external market conditions. 
 
 Each working AI agent within the Trinity ecosystem is encapsulated within its own Sub-DAO, enabling focused governance and agile decision-making tailored to the specific needs and opportunities of that agent. These Sub-DAOs are interconnected with the main Trinity DAO through an innovative liquidity model.
 
