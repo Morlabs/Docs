@@ -44,15 +44,15 @@ Trinity DAO is powered by by the AGI token, whose distribution and emission are 
 
 The hard cap of 42,000,000 AGI tokens ensures scarcity and incentivizes value preservation within the ecosystem. Initial daily emissions are set at 14,400 AGI, designed to decrease gradually, ensuring a transition towards a self-sustaining economy. This approach ensures long-term sustainability and value for the MOR token. Suggested initial allocation Pools are: 
 
-- **Code Providers**: Recognizing the vital role of developers in enhancing the Morpheus platform, a significant portion of AGI tokens is allocated to reward contributions of code, features, and improvements. This pool incentivizes innovation and continual development within the ecosystem.
+- **Code Providers**: Recognizing the vital role of developers in enhancing the Trinity platform, a significant portion of AGI tokens is allocated to reward contributions of code, features, and improvements. This pool incentivizes innovation and continual development within the ecosystem.
 
-- **Capital Providers**: To facilitate growth and liquidity within Morpheus, Capital Providers who contribute financial resources are rewarded with MOR tokens. This pool is crucial for funding the infrastructure, development efforts, and ensuring the ecosystem's liquidity.
+- **Capital Providers**: To facilitate growth and liquidity within Trinity, Capital Providers who contribute financial resources are rewarded with MOR tokens. This pool is crucial for funding the infrastructure, development efforts, and ensuring the ecosystem's liquidity.
 
-- **Compute Providers**: As the backbone of the AI services Morpheus offers, Compute Providers are allocated a portion of AGI tokens for supplying the computational power required to run AI Agents and other network operations. This reward mechanism ensures a robust and scalable infrastructure.
+- **Compute Providers**: As the backbone of the AI services Trinity offers, Compute Providers are allocated a portion of AGI tokens for supplying the computational power required to run AI Agents and other network operations. This reward mechanism ensures a robust and scalable infrastructure.
 
-- **Community Engagement**: A dedicated pool exists to reward community members for their engagement, governance participation, and promotional activities that drive awareness and adoption of Morpheus. This pool is essential for fostering a vibrant and active community.
+- **Community Engagement**: A dedicated pool exists to reward community members for their engagement, governance participation, and promotional activities that drive awareness and adoption of Trinity. This pool is essential for fostering a vibrant and active community.
 
-The distribution rates to each pool are not fixed; they are subject to adjustment by the DAO, ensuring that the Morpheus network remains responsive to the needs of the ecosystem and external market conditions. 
+The distribution rates to each pool are not fixed; they are subject to adjustment by the DAO, ensuring that the Trinity network remains responsive to the needs of the ecosystem and external market conditions. 
 
 Each working AI agent within the Trinity ecosystem is encapsulated within its own Sub-DAO, enabling focused governance and agile decision-making tailored to the specific needs and opportunities of that agent. These Sub-DAOs are interconnected with the main Trinity DAO through an innovative liquidity model.
 
