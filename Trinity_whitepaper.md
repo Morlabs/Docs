@@ -52,11 +52,11 @@ This interconnected network of AI Agent Sub-DAOs becomes a self-sustaining engin
 
 ### Benefits of the AMM-Powered Liquidity Model
 
-**- Decentralized Liquidity**: The AMM model eliminates the need for centralized order books, ensuring that liquidity is provided in a trustless and decentralized manner, aligning with the ethos of Trinity.
-**- Efficient Price Discovery**: The automated market maker mechanism enables accurate and real-time price discovery for AI Agent tokens, promoting transparency and fairness within the ecosystem.
-**- Seamless Integration**: The bonding of AI Agent tokens to the AGI token through liquidity pools facilitates seamless integration and interoperability within the broader Trinity network, fostering collaboration and resource sharing.
-**- Incentive Alignment**: The symbiotic relationship between AI Agent tokens and the AGI token aligns the incentives of all stakeholders, encouraging collective growth and fostering a sense of shared ownership in the ecosystem's success.
-**- Scalability**: The AMM model is highly scalable, enabling the Trinity ecosystem to accommodate an ever-increasing number of AI Agents and tokens while maintaining liquidity and market efficiency.
+- **Decentralized Liquidity**: The AMM model eliminates the need for centralized order books, ensuring that liquidity is provided in a trustless and decentralized manner, aligning with the ethos of Trinity.
+- **Efficient Price Discovery**: The automated market maker mechanism enables accurate and real-time price discovery for AI Agent tokens, promoting transparency and fairness within the ecosystem.
+- **Seamless Integration**: The bonding of AI Agent tokens to the AGI token through liquidity pools facilitates seamless integration and interoperability within the broader Trinity network, fostering collaboration and resource sharing.
+- **Incentive Alignment**: The symbiotic relationship between AI Agent tokens and the AGI token aligns the incentives of all stakeholders, encouraging collective growth and fostering a sense of shared ownership in the ecosystem's success.
+- **Scalability**: The AMM model is highly scalable, enabling the Trinity ecosystem to accommodate an ever-increasing number of AI Agents and tokens while maintaining liquidity and market efficiency.
 
 Through this innovative liquidity model, Trinity establishes a self-sustaining and interconnected ecosystem, where the success of individual AI Agents propels the growth of the entire network, fostering a virtuous cycle of collaboration, innovation, and shared prosperity.
 
